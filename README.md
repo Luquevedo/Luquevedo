@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luquevedo
 - 👀 I’m interested in learn program
-- 🌱 I’m currently learning  development in Java/
+- 🌱 I’m currently learning  developer in Java/
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me luciana.quevedo@iyf.org.br
 
